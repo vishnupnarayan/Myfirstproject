@@ -7,3 +7,5 @@ int rect(int l,int b)
 {
 return(l*b);
 }
+{
+}
